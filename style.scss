@@ -1,0 +1,27 @@
+// seletores: propriedades: valores
+// tag
+// class
+// id
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+// Tag
+img {
+  width: 300px;
+}
+
+// Class
+.card {
+  background-color: red;
+  border: 10px solid green;
+  //   opacity: 0.1;
+}
+
+// ID
+#bt1 {
+  background-color: green;
+}

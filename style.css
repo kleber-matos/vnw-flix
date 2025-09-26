@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 300px;
+}
+
+.card {
+  background-color: red;
+  border: 10px solid green;
+}
+
+#bt1 {
+  background-color: green;
+}/*# sourceMappingURL=style.css.map */
